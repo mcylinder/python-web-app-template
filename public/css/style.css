@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(14, 61, 133);
+}
+
+h1, 
+h3 {
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: normal;
+}
